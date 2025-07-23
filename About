@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Akshay Javalgikar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>About Me</h1>
+</header>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="projects.html">Projects</a>
+  <a href="resume.html">Resume</a>
+  <a href="contact.html">Contact</a>
+</nav>
+<div class="container">
+  <h2>Professional Summary</h2>
+  <p>I am an Assistant Professor at D.S.T.S. Mandal’s College of Pharmacy, Solapur with over 5 years of teaching and research experience. My research focuses on herbal pharmacological agents for neurological disorders.</p>
+  <h3>Education</h3>
+  <ul>
+    <li>M.Pharm (Pharmacology), RGUHS, Bengaluru - Distinction</li>
+    <li>Post Graduate Certificate in Clinical Development, Biocon Academy</li>
+    <li>B.Pharm, RGUHS, Bengaluru</li>
+  </ul>
+</div>
+<footer>
+  &copy; 2025 Akshay Javalgikar
+</footer>
+</body>
+</html>
