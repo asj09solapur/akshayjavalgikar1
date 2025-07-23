@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - Akshay Javalgikar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>Contact Me</h1>
+</header>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="projects.html">Projects</a>
+  <a href="resume.html">Resume</a>
+  <a href="contact.html">Contact</a>
+</nav>
+<div class="container">
+  <h2>Get in Touch</h2>
+  <p><strong>Email:</strong> akshay.pharmacist1@gmail.com</p>
+  <p><strong>Phone:</strong> +91-7219355915</p>
+  <p><strong>Location:</strong> Solapur, Maharashtra, India</p>
+</div>
+<footer>
+  &copy; 2025 Akshay Javalgikar
+</footer>
+</body>
+</html>
