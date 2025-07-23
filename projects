@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects & Publications</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>Projects & Publications</h1>
+</header>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="projects.html">Projects</a>
+  <a href="resume.html">Resume</a>
+  <a href="contact.html">Contact</a>
+</nav>
+<div class="container">
+  <h2>Key Research & Publications</h2>
+  <ul>
+    <li>Hepatoprotective activity of Cynodon dactylon leaf extract (2020)</li>
+    <li>In vitro anti-inflammatory activity of Tectonia grandis leaves extract (2019)</li>
+    <li>Evaluation of Melatonin and CoQ10 in gastric ulcers (2020)</li>
+    <li>Phytochemical Evaluation of Crinum solapurense (2018)</li>
+  </ul>
+  <h2>Projects Guided</h2>
+  <ul>
+    <li>Formulation of Herbal Hair Serum</li>
+    <li>Pharmacognostic and Phytochemical Evaluation of Crinum solapurense</li>
+    <li>Development of Herbal Shampoo Bar</li>
+  </ul>
+</div>
+<footer>
+  &copy; 2025 Akshay Javalgikar
+</footer>
+</body>
+</html>
