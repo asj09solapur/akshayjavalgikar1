@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume - Akshay Javalgikar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>Resume</h1>
+</header>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="projects.html">Projects</a>
+  <a href="resume.html">Resume</a>
+  <a href="contact.html">Contact</a>
+</nav>
+<div class="container">
+  <h2>Download My Resume</h2>
+  <p>You can download my detailed resume by clicking below:</p>
+  <a href="Final Updated CV 16-11-2022.docx" download>📥 Download Resume (DOCX)</a>
+</div>
+<footer>
+  &copy; 2025 Akshay Javalgikar
+</footer>
+</body>
+</html>
